@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.facebook.com/Dự-án-Felix-homes-Gò-Vấp-1837972192909293' target='_blank'><img src='http://centralland.com.vn/wp-content/uploads/2017/05/Can-ho-felix-homes-4.jpg' width='500px'/><br/>Chuyên căn hộ giá rẻ</a>. Liên hệ tư vấn hotline 0902774039. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.facebook.com/Dự-án-Felix-homes-Gò-Vấp-1837972192909293' target='_blank'><img src='' width='500px'/><br/>Chuyên căn hộ giá rẻ</a>. Liên hệ tư vấn hotline 0902774039. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
